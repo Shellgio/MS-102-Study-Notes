@@ -7,15 +7,15 @@ These notes are available in two languages:
 - 🇬🇧 [MS-102 study notes - English](./MS-102-study-notes.en.md)
 - 🇪🇸 [Notas de estudio MS-102 - Español](./MS-102-study-notes.es.md)
 
-> [!warning] 🇬🇧 Disclaimer
+> [!warning] 
 > 
-> These are my personal revision notes. They do **not** cover every topic, skill, command, portal, licensing detail, or scenario that can appear in the MS-102 exam. They only include the areas and details I wanted to review while preparing.
+> 🇬🇧 **Disclaimer**: These are my personal revision notes. They do **not** cover every topic, skill, command, portal, licensing detail, or scenario that can appear in the MS-102 exam. They only include the areas and details I wanted to review while preparing.
 > 
 > Use them as a quick review aid, not as a complete exam guide. Always validate the current exam objectives and product behavior with the official Microsoft Learn documentation.
 
-> [!warning] 🇪🇸  Aviso
+> [!warning] 
 > 
-> Estos son mis apuntes personales de repaso. **No** cubren todo el contenido, todas las habilidades, comandos, portales, licencias o escenarios que pueden aparecer en el examen MS-102. Solo incluyen las áreas y detalles que yo consideré importantes para repasar durante mi preparación.
+> 🇪🇸  **Aviso**: Estos son mis apuntes personales de repaso. **No** cubren todo el contenido, todas las habilidades, comandos, portales, licencias o escenarios que pueden aparecer en el examen MS-102. Solo incluyen las áreas y detalles que yo consideré importantes para repasar durante mi preparación.
 > 
 > Úsalos como material de repaso rápido, no como una guía completa del examen. Comprueba siempre los objetivos oficiales del examen y el comportamiento actual de los productos en la documentación de Microsoft Learn.
 > 
